@@ -1,6 +1,7 @@
 # scripts-powershell
 
  ler um arquivo texto
+ 
 
 #Lendo um arquivo txt
 $Text = Get-Content -Path E:\Temp\Projetos.txt 
