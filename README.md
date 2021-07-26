@@ -9,6 +9,7 @@ PS C:\antivirus> type .\antivirus.csv
 #TYPE Selected.Microsoft.Management.Infrastructure.CimInstance
 
 "AntivirusSignatureVersion","AntivirusSignatureLastUpdated","AntispywareSignatureLastUpdated","AntispywareSignatureVersion"
+"1.343.1708.0","26/07/2021 07:23:49","26/07/2021 07:23:49","1.343.1708.0"
 
 # Powersher Linha de Comando para JSON - Windows Defender:
 
